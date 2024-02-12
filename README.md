@@ -22,10 +22,21 @@ Before running SaveGuard, ensure you have Python installed on your system. Follo
     - Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
     - Download the installer and follow the installation instructions provided on the website.
 
-2. **Verify Installation:**
+2. **Add Python to System Environment Variables:**
+   - After installing Python, add the Python installation directory to the system environment variables. This step allows you to run Python commands from any directory in the command prompt or terminal.
+   - **Windows:**
+     - Search for "Environment Variables" in the Start menu and select "Edit the system environment variables."
+     - In the System Properties window, click on the "Environment Variables..." button.
+     - Under "System variables," select the "Path" variable and click "Edit..."
+     - Click "New" and add the path to the Python installation directory (e.g., `C:\Python39`).
+     - Click "OK" to save the changes and close the windows.
+    
+3. **Verify Installation:**
     - Open a terminal or command prompt.
     - Type `python --version` and press Enter.
     - If Python is installed correctly, you should see the installed Python version printed in the terminal.
+
+
 
 ## Installation
 
