@@ -5,13 +5,27 @@ SaveGuard is a Python script designed to automatically backup the save data for 
 ## Features
 
 - Automatic periodic backup of Palworld save data.
-- Customizable backup interval and file paths.
+- Customizable backup file paths.
 - Logging to track backup operations.
 
 ## Requirements
 
 - Python 3.x
 - `python-dotenv` library (install via `pip install python-dotenv`)
+
+### Prerequisites
+
+Before running SaveGuard, ensure you have Python installed on your system. Follow these steps to install Python:
+
+1. **Download Python:** 
+    - Go to the [official Python website](https://www.python.org/downloads/).
+    - Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
+    - Download the installer and follow the installation instructions provided on the website.
+
+2. **Verify Installation:**
+    - Open a terminal or command prompt.
+    - Type `python --version` and press Enter.
+    - If Python is installed correctly, you should see the installed Python version printed in the terminal.
 
 ## Installation
 
@@ -37,6 +51,18 @@ SaveGuard uses a `.env` file to manage configuration settings. You can customize
 - `SAVE_DATA_PATH`: Path to the Palworld save data directory.
 - `BACKUP_PATH`: Path to the directory where backups will be stored.
 
+## Donation
+
+If you find SaveGuard useful and would like to support its development, consider making a donation. Your contribution helps maintain and improve the project.
+
+### How to Donate
+
+You can donate using the following methods:
+
+1. **PayPal:** [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=5NCF4SUNPZQP8)
+
+    Your support is greatly appreciated!
+
 ## Usage
 
 Once configured, SaveGuard will automatically run in the background and perform backups according to the specified interval. You can monitor the backup process by checking the logs in the `saveguard.log` file.
@@ -44,6 +70,7 @@ Once configured, SaveGuard will automatically run in the background and perform 
 ## Contributing
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve SaveGuard.
+
 
 ## License
 
