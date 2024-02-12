@@ -4,7 +4,7 @@ SaveGuard is a Python script designed to automatically backup the save data for 
 
 ## Features
 
-- Automatic periodic backup of Palworld save data.
+- Automatic periodic (houlry) backup of Palworld save data.
 - Customizable backup file paths.
 - Logging to track backup operations.
 
