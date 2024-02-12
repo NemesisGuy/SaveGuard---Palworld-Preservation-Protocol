@@ -61,7 +61,7 @@ You can donate using the following methods:
 
 1. **PayPal:** [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=5NCF4SUNPZQP8)
 
-    Your support is greatly appreciated!
+Your support is greatly appreciated!
 
 ## Usage
 
