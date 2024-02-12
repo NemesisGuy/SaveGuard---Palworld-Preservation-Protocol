@@ -42,7 +42,7 @@ Before running SaveGuard, ensure you have Python installed on your system. Follo
 
 1. Clone this repository to your local machine:
 
-- git clone https://github.com/your-username/saveguard-palworld.git
+- git clone https://github.com/NemesisGuy/SaveGuard---Palworld-Preservation-Protocol.git
 
 2. Install the required dependencies:
 
