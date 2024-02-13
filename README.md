@@ -71,7 +71,7 @@ SaveGuard uses a `.env` file to manage configuration settings. You can customize
 - `BACKUP_PATH`: Path to the directory where backups will be stored.
 
 Example of where the save game might be found, this will vary depending on your install location and your setup:
- - 'C:\Users\UserName\SteamCmd\Steamapps\common\palserver\pal\Saved\SaveGame'
+ - `C:\Users\UserName\SteamCmd\Steamapps\common\palserver\pal\Saved\SaveGame`
 
 ## Donation
 
