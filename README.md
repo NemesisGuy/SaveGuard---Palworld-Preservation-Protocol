@@ -33,7 +33,7 @@ Before running SaveGuard, ensure you have Python installed on your system. Follo
 
 Where [user] is your windows username and [version number] is the version you installed with no brackets.
 
-See the image [here](https://docs.python.org/3/using/windows.html), [image] (https://docs.python.org/3/_images/win_installer.png)
+See the image [here](https://docs.python.org/3/using/windows.html), [image](https://docs.python.org/3/_images/win_installer.png)
 
      - Click "OK" to save the changes and close the windows.
 
