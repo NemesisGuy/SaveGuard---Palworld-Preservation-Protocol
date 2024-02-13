@@ -70,6 +70,9 @@ SaveGuard uses a `.env` file to manage configuration settings. You can customize
 - `SAVE_DATA_PATH`: Path to the Palworld save data directory.
 - `BACKUP_PATH`: Path to the directory where backups will be stored.
 
+Example of where the save game might be found, this will vary depending on your install location and your setup:
+ - C:\Users\UserName\SteamCmd\Steamapps\common\palserver\pal\Saved\SaveGame
+
 ## Donation
 
 If you find SaveGuard useful and would like to support its development, consider making a donation. Your contribution helps maintain and improve the project.
