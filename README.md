@@ -100,3 +100,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
+![GitHub All Releases](https://img.shields.io/github/downloads/NemesisGuy/SaveGuard---Palworld-Preservation-Protocol/total)
